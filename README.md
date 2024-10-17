@@ -3,7 +3,7 @@
 ## Running
 Run binance client and websocket server
 
- ```go run main.go```
+ ```go run .```
 
  
 Use any websocket client to connect to ws://localhost:8080
